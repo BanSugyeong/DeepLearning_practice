@@ -9,3 +9,5 @@ DeepLearning - image processing, anomaly detection
 - 시각적 이미지를 분석하는데 주로 이용
 - 특징맵을 생성하는 필터까지도 학습이 가능해 비전 분야에서 성능이 우수함
 - 데이터를 직접 학습하고 패턴을 사용해 이미지를 분류함
+
+### 
