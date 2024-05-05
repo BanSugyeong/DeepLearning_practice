@@ -16,3 +16,5 @@ DeepLearning - image processing, anomaly detection
 ### NLP(자연어 처리)
 
 ### Pyhanspell
+
+keras
