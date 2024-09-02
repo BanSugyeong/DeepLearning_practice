@@ -15,6 +15,6 @@ DeepLearning - image processing, anomaly detection
 
 ### NLP(자연어 처리)
 
-### Pyhanspell
+### PyKospacing
 
-keras
+### ET5 Text2Text
